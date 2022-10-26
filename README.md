@@ -7,9 +7,6 @@ _Some screenshots_
 
 📌 This website project was part of preparation process as requested from a job I was applied. So they gave me the design files and my goal was to make a copy of the design using html and css
 
-## 😎 Watch live
-
-[![<img src="https://img.shields.io/badge/website-000000?style=for-the-badge&logo=About.me&logoColor=white" />](https://img.shields.io/badge/website-000000?style=for-the-badge&logo=About.me&logoColor=white)](https://dreamy-bonbon-2073bf.netlify.app)
 
 ## 🏠 Run Locally
 
